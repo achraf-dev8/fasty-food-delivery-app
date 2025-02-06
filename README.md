@@ -47,15 +47,6 @@ This project is a food delivery mobile application aimed at making the food orde
 5. **Run the Application**:
    - After setting everything up, you can run the app on an emulator or a physical device.
 
-## Contributing
-
-If you'd like to contribute to the project or add new features, feel free to do the following:
-
-1. **Fork** this repository.
-2. **Create a new branch** from `main`.
-3. **Make your changes** or add a new feature.
-4. **Submit a Pull Request** for review and merging.
-
 ## Notes
 
 - This app is still under development, and we welcome any improvements or suggestions.
