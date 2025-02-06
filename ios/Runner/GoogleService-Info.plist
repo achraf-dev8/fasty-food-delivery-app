@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>499464343677-v7g29uiqu9bdcpqik2u3lt8kdh40c9sn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.499464343677-v7g29uiqu9bdcpqik2u3lt8kdh40c9sn</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>499464343677-m84cla6r1gt8vf8por8kr7099g1l80ea.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAw1bkbuERDSWhXjQD6t5sWAN-zYxSzJ54</string>
+	<key>GCM_SENDER_ID</key>
+	<string>499464343677</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.fasty</string>
+	<key>PROJECT_ID</key>
+	<string>fasty-ea533</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fasty-ea533.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:499464343677:ios:cb9e6327c37873fdf9a114</string>
+</dict>
+</plist>
