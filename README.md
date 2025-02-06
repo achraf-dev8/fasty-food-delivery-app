@@ -1,4 +1,4 @@
-# Food Delivery App Project
+# Fasty
 
 ## Introduction
 
