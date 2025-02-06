@@ -50,6 +50,7 @@ This project is a food delivery mobile application aimed at making the food orde
 ## Notes
 
 - This app is still under development, and we welcome any improvements or suggestions.
+- The admin and delivery apps are on other repositories
 
 ## Contact Us
 
