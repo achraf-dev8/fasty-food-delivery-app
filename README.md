@@ -59,10 +59,10 @@ If you have any questions or suggestions, feel free to reach out to us via:
 - Email: laifaachraf08@gmail.com
 
 ## Preview
-![image alt](https://github.com/achraf-dev8/fasty-food-delivery-app/blob/ce8d6e16bc8934be60035c81237199f55d459139/show_images/Design%20sans%20titre.png) ![image alt](https://github.com/achraf-dev8/fasty-food-delivery-app/blob/a4314f9b9e506f8870f4bb4789996f66bc747c12/show_images/Design%20sans%20titre%20(2).png)
-![image alt]([https://github.com/achraf-dev8/fasty-food-delivery-app/blob/ce8d6e16bc8934be60035c81237199f55d459139/show_images/Design%20sans%20titre.png](https://github.com/achraf-dev8/fasty-food-delivery-app/blob/ce8d6e16bc8934be60035c81237199f55d459139/show_images/Design%20sans%20titre%20(2).png))
-![image alt]([https://github.com/achraf-dev8/fasty-food-delivery-app/blob/ce8d6e16bc8934be60035c81237199f55d459139/show_images/Design%20sans%20titre.png](https://github.com/achraf-dev8/fasty-food-delivery-app/blob/ce8d6e16bc8934be60035c81237199f55d459139/show_images/Design%20sans%20titre%20(3).png))
-![image alt]([https://github.com/achraf-dev8/fasty-food-delivery-app/blob/ce8d6e16bc8934be60035c81237199f55d459139/show_images/Design%20sans%20titre.png](https://github.com/achraf-dev8/fasty-food-delivery-app/blob/ce8d6e16bc8934be60035c81237199f55d459139/show_images/Design%20sans%20titre%20(4).png))
-![image alt]([https://github.com/achraf-dev8/fasty-food-delivery-app/blob/ce8d6e16bc8934be60035c81237199f55d459139/show_images/Design%20sans%20titre.png](https://github.com/achraf-dev8/fasty-food-delivery-app/blob/ce8d6e16bc8934be60035c81237199f55d459139/show_images/Design%20sans%20titre%20(5).png))
-![image alt]([https://github.com/achraf-dev8/fasty-food-delivery-app/blob/ce8d6e16bc8934be60035c81237199f55d459139/show_images/Design%20sans%20titre.png](https://github.com/achraf-dev8/fasty-food-delivery-app/blob/ce8d6e16bc8934be60035c81237199f55d459139/show_images/Design%20sans%20titre%20(6).png))
-
+![image alt](https://github.com/achraf-dev8/fasty-food-delivery-app/blob/ce8d6e16bc8934be60035c81237199f55d459139/show_images/Design%20sans%20titre.png)
+![image alt](https://github.com/achraf-dev8/fasty-food-delivery-app/blob/73ef494514b65d8a2e4f0b6076cd7edb81635229/show_images/Design%20sans%20titre%20(1).png)
+![image alt](https://github.com/achraf-dev8/fasty-food-delivery-app/blob/73ef494514b65d8a2e4f0b6076cd7edb81635229/show_images/Design%20sans%20titre%20(2).png)
+![image alt](https://github.com/achraf-dev8/fasty-food-delivery-app/blob/73ef494514b65d8a2e4f0b6076cd7edb81635229/show_images/Design%20sans%20titre%20(3).png)
+![image alt](https://github.com/achraf-dev8/fasty-food-delivery-app/blob/73ef494514b65d8a2e4f0b6076cd7edb81635229/show_images/Design%20sans%20titre%20(4).png)
+![image alt](https://github.com/achraf-dev8/fasty-food-delivery-app/blob/73ef494514b65d8a2e4f0b6076cd7edb81635229/show_images/Design%20sans%20titre%20(5).png)
+![image alt](https://github.com/achraf-dev8/fasty-food-delivery-app/blob/73ef494514b65d8a2e4f0b6076cd7edb81635229/show_images/Design%20sans%20titre%20(6).png)
