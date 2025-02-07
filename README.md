@@ -34,17 +34,13 @@ This project is a food delivery mobile application aimed at making the food orde
 1. **Download the project**:
    - Clone or download the project to your local machine.
 
-2. **Set up the Database**:
-   - Create a new MySQL database using the provided scripts.
-
-3. **Install Required Libraries**:
+2. **Install Required Libraries**:
    - In Flutter, run `flutter pub get` to install the required packages.
-   - In PHP, make sure to install any necessary libraries using **Composer**.
 
-4. **Set up Firebase**:
+3. **Set up Firebase**:
    - Register for Firebase and add your Firebase keys to enable notifications and Google/Facebook login.
 
-5. **Run the Application**:
+4. **Run the Application**:
    - After setting everything up, you can run the app on an emulator or a physical device.
 
 ## Notes
