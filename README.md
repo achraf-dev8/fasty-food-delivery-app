@@ -2,9 +2,9 @@
 
 ## Introduction
 
-This project is a food delivery mobile application aimed at making the food ordering experience easier for users online. The app offers features like account creation, browsing offers, payment options, order management, and more. It is developed using modern technologies to ensure an excellent user experience.
+This project is a **food delivery mobile application** aimed at making the food ordering experience easier for users online. The app offers features like account creation, browsing offers, payment options, order management, and more. It is developed using modern technologies to ensure an excellent user experience.
 
-## Features
+## 🔥Features
 
 - Account creation and login via phone number, email, or Google/Facebook.
 - OTP verification via phone number or email.
@@ -22,14 +22,14 @@ This project is a food delivery mobile application aimed at making the food orde
 - Direct contact page to communicate with the restaurant via phone.
 - Push notifications for account creation, order status (acceptance, rejection, or delivery), and stored in a dedicated notifications page.
 
-## Technologies Used
+## ⚙️Technologies Used
 
 - **Front-End**: The user interface is built using **Flutter**.
 - **Back-End**: The server-side is built using **PHP**.
 - **Database**: **MySQL** is used for storing data.
 - **Notifications & Login**: **Firebase** is used for sending notifications and enabling Google and Facebook login.
 
-## How to Run the Project
+## ▶️How to Run the Project
 
 1. **Download the project**:
    - Clone or download the project to your local machine.
@@ -43,12 +43,12 @@ This project is a food delivery mobile application aimed at making the food orde
 4. **Run the Application**:
    - After setting everything up, you can run the app on an emulator or a physical device.
 
-## Notes
+## 📝Notes
 
 - This app is still under development, and we welcome any improvements or suggestions.
 - The admin and delivery apps are on other repositories
 
-## Contact Us
+## 📩Contact Us
 
 If you have any questions or suggestions, feel free to reach out to us via:
 
