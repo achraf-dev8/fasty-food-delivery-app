@@ -15,7 +15,7 @@ class MiddleWare extends GetMiddleware{
   sharedPrefs.setBool("high to low", true);
   sharedPrefs.setString("sorting", "Popularity");
   }
-  if(sharedPrefs.getInt("id") != null && sharedPrefs.getInt("id") != -1){
+  if(false){
     return const RouteSettings(name : AppRoutes.home);
   }
   if(sharedPrefs.getBool("firstTime") != null){

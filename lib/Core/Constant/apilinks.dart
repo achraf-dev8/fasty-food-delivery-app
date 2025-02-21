@@ -1,7 +1,7 @@
 class ApiLinks{
-   //static const String server = "http://10.0.2.2/fasty";
+   static const String server = "http://10.0.2.2/fasty";
    
-   static const String server = "http://172.20.10.5/fasty";
+   //static const String server = "http://172.20.10.5/fasty";
    
    static const String authLink = "$server/auth";
    
