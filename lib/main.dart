@@ -13,12 +13,11 @@ import 'package:flutter/services.dart';
 
 late SharedPreferences sharedPrefs;
   Future<void> main() async {
-    lfkacijaopgkvnkakv
   
    WidgetsFlutterBinding.ensureInitialized();
    sharedPrefs = await SharedPreferences.getInstance();
    
-   await Firebase.initializeApp(options: kj apo jfa fapjo 
+   await Firebase.initializeApp(options:
    DefaultFirebaseOptions.currentPlatform);
        await FirebaseMessaging.instance.getToken().then((value){
       print("achra $value achraf");
@@ -41,6 +40,7 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    return  GetMaterialApp(
         debugShowCheckedModeBanner: false,
       initialBinding: InitBinding(),
       theme: ThemeData(
